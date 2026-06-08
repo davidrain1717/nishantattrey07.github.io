@@ -1,0 +1,55 @@
+Contributions Details:  
+	davidrain1717
+
+
+
+[./	10.4 MB]:
+	Recommend creating new directory (./images/) for image files only.  
+	Recommend creating new directory (./audio/) for audio files only.  
+	Recommend creating new directory (./video/) for video files only.  
+	Recommend change ( README ) file to a YAML type file structure for readability.  
+	Recommend lowercase filenames throughout main directory(./) & sub directories.  
+	Reccomend javascript ECMA camel-case (textInCamelCase) for element ids & variables consistently in all files.  
+
+
+
+[CSS.html	6.2 kB]:
+	cleaned up & tabbed
+
+
+
+[rawindex.html	1.4 kB]:
+	in (./rawindex.html), page link (HTML) links to htmlpage.html & not found.  
+	in (./rawindex.html), page link (JAVASCRIPT) links to jsend.html & not found.  Possibly mislabeld.  
+
+
+
+[csi.html	4.5 kB]:
+	inProgress
+
+
+[index.html	89.0 kB]:
+	inProgress
+
+
+[logo.png	165 kB]:
+	Recommend moving to (./images/) directory.  
+
+
+
+[review.md	746 B]:
+	inProgress
+
+
+[socialhandels.html	2.0 kB]:
+	inProgress
+
+
+[styles.css	3.3 kB]:
+	inProgress
+
+
+[./js/	644 B]:
+	Organized tabs & brackets.  Have questions about ( 'let' ) instead of ( 'var' ).  
+	In ( jsend.js ):  Where are ( 'en1' & 'en2' ) ?  Why ( const lnumber ) ?
+
